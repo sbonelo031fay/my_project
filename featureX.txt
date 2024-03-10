@@ -1,0 +1,6 @@
+On the feature-x branch, create a new file named featureX.txt and
+add some content to it. Then, stage and commit the changes with a
+message like "Add Feature X".
+• Repeat the process on the feature-y branch, creating a featureY.txt
+file, adding content, staging, and committing with a message like "Add
+Feature Y".
